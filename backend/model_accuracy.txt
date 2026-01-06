@@ -1,0 +1,5 @@
+Logistic Regression: 84.47%
+Random Forest: 84.40%
+K-Nearest Neighbors: 80.71%
+Support Vector Machine: 84.26%
+XGBoost: 83.93%
